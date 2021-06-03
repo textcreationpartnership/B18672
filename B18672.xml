@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the governour and garrison of Londonderry, when it was beseiged by the Irish army, 1688. and such of them as were afterwards added by His Majesties most gracious warrants, as supernumerary or reformed officers, and served as such during the war of Ireland. Humbly submitted to the honourable the Commons of England, in Parliament assembled.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18672</idno><idno type="EEBO-CITATION">99885960</idno>
+  <idno type="VID">188590</idno>
+  <idno type="EEBO-PROQUEST">2240887160</idno>
+  
+            <idno type="STC">Wing C1083</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[51]</idno>
+            <idno type="STC">ESTC R225232</idno>
+            <idno type="PROQUEST">ocm99885960</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885960e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188590)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the governour and garrison of Londonderry, when it was beseiged by the Irish army, 1688. and such of them as were afterwards added by His Majesties most gracious warrants, as supernumerary or reformed officers, and served as such during the war of Ireland. Humbly submitted to the honourable the Commons of England, in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Londonderry (Northern Ireland) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1688-1689 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188590:1"/>
+            <head>THE CASE OF THE Governour and Garrison of <hi>Londonderry,</hi> when it was Besieged by the <hi>Irish</hi> Army, 1688. and Such of them as were afterwards added by His Majesties Most Gracious Warrants, as Supernumerary or Reformed Officers, and served as such during the War of <hi>Ireland.</hi>
+            </head>
+            <head>Humbly Submitted to the Honourable the <hi>Commons</hi> of <hi>ENGLAND,</hi> in <hi>Parliament</hi> Assembled.</head>
+            <p>THAT at the Beginning of the Late Happy Revolution, <hi>viz</hi> in <hi>December,</hi> 88. The Inhabitants of <hi>Londonderry</hi> shut up their Gates against the Earl of <hi>Tirconnel</hi> and his <hi>Irish</hi> Forces, and together with the Gentlemen of the several Counties in <hi>Ʋlster</hi> and <hi>Connaught,</hi> Declared for his Highness the then Prince of <hi>Orange,</hi> and the Interest of <hi>England,</hi> and thereupon sent Commissioners to his Highness, and acquainted him with their Proceedings.</p>
+            <p>That His Present Majesty, by Letters dated the 10th. of <hi>February,</hi> 88. to my Lord <hi>Mount Alexander,</hi> assures them of Succours, approves and encourages their putting them<g ref="char:EOLhyphen"/>selves in a Posture of Defence, against the Illegal Practices of the <hi>Papists</hi> there, and at the same time sent them Commissions for raising several Regiments, with Commission to Col. <hi>Lundie,</hi> to be Governour of <hi>Derry,</hi> and some Store of Arms and Ammunition.</p>
+            <p>That pursuant to those Commissions my Lord <hi>Mount Alexander,</hi> Sir <hi>Arthur Radeing,</hi> Mr. <hi>Sheffington,</hi> my Lord <hi>Blaney</hi> and others, formed several Regiments of the Protestants of <hi>Ʋlster</hi> and <hi>Connaught,</hi> who at several times, tho' greatly over-numbred, disputed the Interest of <hi>England</hi> with the Popish Army with great Success, till at <hi>Claudy</hi> upon the River <hi>Finn,</hi> part of the said Forces being attacked by the Body of the <hi>Irish</hi> Army who had unexpectedly forded there, were then defeated and dispersed.</p>
+            <p>Whereupon a resolute Part of them retreated to <hi>Londonderry,</hi> with purpose to defend that Hold, being the last in <hi>Ireland,</hi> save <hi>Inskilling,</hi> and there formed themselves into Regiments.</p>
+            <p>That during the Siege the said Officers and Soldiers defended the said City with great Vigor and Constancy, so that the Number of the Enemy that fell, and were taken by Sallies, were computed at more than 9000 Men.</p>
+            <p>That during the said Siege the said Officers and Soldiers were plundered of all, their Houses burnt, their Corn destroyed, their Lands wasted, and their Plantations cut down, while those that submitted to the late King were protected in their Possessions.</p>
+            <p>That extream Want and Famine ensuing in the said City, the said Officers and Soldiers, and such Inhabitants as remain'd, were reduced to great Want and Misery; so that of 12000 that dyed in that Garrison the greatest part were starved, leaving their Widows, with numerous Fatherless Children, and the Survivours forced to eat Horse-Flesh, Horse-Blood, Dogs, Cats, Rats, Tallow, Salt and Dryed Hides, Starch-Graves or Tallow-Pressings and Sea-wreck, <hi>&amp;c.</hi> and such Food at a stinted Allowance; there not remaining thereof when the City was relieved, sufficient for above two or three Days, by which all the said Garrison were very much enfeebled and almost starved, yet their Resolutions for the <hi>English</hi> Interest no wise abated.</p>
+            <p>That the Enemy being exasperated at the Steddiness of the Besieged, and encouraged by the deplorable Necessities within, drove down all the Ancient Persons, Women and Children they could find in the Countries thereabouts to a vast Number, under the Walls of said City, which were of the near Kindred of the said Garrison, and sent Word to the Besieged that they would sire upon them till the City should take them in.</p>
+            <p>That the Besieged thereupon caused Gallowses to be erected upon the Walls of the Town, and ordered all their Prisoners to prepare for Death, and sent Word to the <hi>Irish</hi> Army of their full Intentions to execute them instantly; whereupon they permitted those Men, Women and Children to shift for themselves, and the Besieged desisted from their said Intentions.</p>
+            <p>The General of the <hi>Irish</hi> Army thereupon proferred Articles, wherein were contained, That they that would should be encouraged in the late King <hi>James</hi>'s Service, those that would live in Town to have their free Liberty of Goods, <hi>&amp;c.</hi> and Religion; and such as would go home, safe guarded and be restored to all formerly lost, both by the Justices of Peace and also by their Army, who would do them Right, and reprise for them what was taken from them and carried into the Mountains or otherwise, and upon Treaty thereupon engaged full Pardon, and Restitution of all things, Liberties, Priviledges and Religion; all which the Besieged (preferring the Interest of <hi>England</hi>) notwithstanding their then present Wants, Dan<g ref="char:EOLhyphen"/>gers and Miseries, refused to accept, tho' no other Prospect attended then but starving, or the Sword without Quarter.</p>
+            <p>That Their Majesties by their Declaration, dated 22<hi>d. Feb.</hi> 88. amongst other things, were graciously pleased to declare, that the <hi>Irish</hi> Lands and Estates of all such as should then after by Law, be forfeited to Their Majesties, should by Their Majesties be distributed and disposed to those that should be aiding and assisting in the Reduction of that Kingdom.</p>
+            <p>That in <hi>August</hi> 89. the Town being providentially relieved, the said Regiments were broke by Col. <hi>Kirk,</hi> at a Court Marshal by him held the 7th. of the same Month.</p>
+            <p>That His Majesty was graciously pleased by his Letter of the 16th. <hi>August</hi> 89. to Col. <hi>Walker</hi> and Col. <hi>Michelbourne,</hi> Governours of <hi>Londonderry,</hi> to commend their Services, and to bid the Commanders in Chief and themselves rely on His Majesties Royal Favour toward them, and thereby commanded the said Governours in His Name, to assure the said Officers, Soldiers and Inhabitants of Recompence, as not to repent their said Services and Sufferings.</p>
+            <p>That His Majesty by His Gracious Warrant, dated the 16th. <hi>September,</hi> 89. was pleased again to express His Satisfaction in the Courage and Loyalty of the said Officers and Soldiers in <hi>Derry,</hi> and thereby directed them to be formed into three Regiments of Foot, as other Regiments then in <hi>Ireland;</hi> and thereby ordered, that all that were Officers in <hi>Derry</hi> at the time of the said Court Marshal, and not provided for in the said three Regiments, should be added to the said Regiments, as Supernumerary or Reformed Officers, and to be in full Pay as in their last Qualities, till disposed of to their greater Advantage, and no other to be preferred till all the said <hi>Derry</hi> Officers were so provided for, saving those of Col. <hi>Baker</hi>'s Regiment who were before broke, and which were thereby ordered to be provided for equally with the rest so broken at the said Court Marshal.</p>
+            <p>That their Lordship's the Committee for the <hi>Irish</hi> Affairs, by their Warrant to the Lords of the Treasury, dated the 8th. <hi>January,</hi> 89. reciting, That whereas His Majesty had ordered the said three Regiments to be formed as aforesaid, and had declared his Pleasure that they should be paid, together with the said Supernumerary Officers, from 1st. <hi>October</hi> 89. with the rest of the said Regiments in <hi>Ireland,</hi> They the said Lords, the Committee by His Majesties Command, desired the Lords of the Treasury to furnish Mr. <hi>Harboard,</hi> Pay-Master of His Majesties Forces in <hi>Ireland</hi> with Monies for that Service.</p>
+            <p>That His Majesty by His Gracious Warrant to his Grace the Duke of <hi>Schomberge,</hi> dated the 27th. <hi>February</hi> 89. Wherein His Majesty is again pleased to mention the good Services of the <hi>Derry</hi> Officers, and that His Majesty had ordered an Establishment to be made of their Pay, which was thereby transmitted to his Grace, His Majesty did thereby direct Pay<g ref="char:EOLhyphen"/>ment to be made to the said Regiments and Supernumerary Officers from time to time, as to the rest of the Army under his Grace's Command.</p>
+            <p>That by Report made to Her late Majesty of Blessed Memory, dated the 28th. <hi>May,</hi> 91. by my Lord Marquis of <hi>Carmarthen,</hi> President, Earl of <hi>Bridgewater,</hi> Earl of <hi>Nottingham</hi> and Sir <hi>Henry Goodrick</hi> (on the Humble Petition of the same Officers and Soldiers) the Pay of the said Reformed Officers from the Time of the said Siege, and during such Time as they should continue in His Majesties Service, was by them setled; and in pursuance thereof, and by Her Majesties Special Command, by Two Reports, One dated the 1st. <hi>March,</hi> 91. and the other 21st. of <hi>April,</hi> 92. from Mr. <hi>Charles Fox</hi> to the Lords of the Treasury, their Pay was stated from the 5th. <hi>February,</hi> 88. (the Time which they took up Arms) to the 12th. <hi>August,</hi> 89. <hi>viz.</hi> Till the Time the City of <hi>Londonderry</hi> was relieved.</p>
+            <p>That the Honourable the Commons of <hi>England</hi> in Parliament Assembled, as appears by their Journals of the 9th. <hi>April,</hi> 98. upon the Petition of the Mayor, Commonalty and Ci<g ref="char:EOLhyphen"/>tizens of <hi>Derry</hi> did Resolve, that the Services and Sufferings of the said City were very Eminent, and of great Consequence to His Majesties Service and the Preservation of the Three Kingdoms, that in regard thereof, the said City had well deserved to be considered, and to have some Special Mark of His Majesties Bounty, for a Lasting Monument to Posterity, and thereupon Ordered an Address to be drawn up to His Majesty.</p>
+            <p>That by the said Journals of 23d. of <hi>June,</hi> 98. It appears, an Address was drawn up accordingly, wherein the Honourable then Commons of <hi>England</hi> most Humbly Represented to His Majesty, the great Losses, Services and Sufferings of the said City, Governour and Garrison, Praying His Majesty would be Graciously pleased to make some Compensation to the said City, Governour and Garrison, by such Means and in such Manner as His Majesty in His Princely Wisdom should think fit.</p>
+            <p>That by the said Journals 29th. <hi>June,</hi> 98. It appears, that His Majesty having been attended with the said Address, touching the said City, Governour and Garrison, His Majesty was pleased to say, He would take them into Consideration, according to the Desire of the House.</p>
+            <p>That pursuantly His Majesty has been Petitioned, but the said Governour, Officers and Soldiers, not being admitted by the Commissioners by the Late Act, <hi>For Taking, Examining and Determining the Debts due to the Army,</hi> &amp;c. to be Comprehended within the Words of the same Act; and no other Provision being made for them, are still without Relief.</p>
+            <p>
+               <hi>Wherefore, The said Governour, Officers and Soldiers do with all Humility, lay their said Services and Sufferings before this Honourable House, Hoping, That some Early Provision will be made for them, towards the Stating and Satisfying their said Arrears.</hi>
+            </p>
+            <closer>And as in all Duty bound, Shall ever Pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
